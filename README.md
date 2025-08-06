@@ -36,9 +36,9 @@ I use Tableau to transform raw data into meaningful stories that support decisio
 ---
 
 ## 📫 Contact Me
-- **Email:** your_email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/)
-- **GitHub:** [Michael Okosun](https://github.com/yourusername)
+- **Email:** michaelokosun822@gmail.com
+- **LinkedIn:** https://linkedin.com/mokosun01
+- **GitHub:** [Michael Okosun](https://github.com/MykelNairaback)
 
 ---
 # Nairaback-s-Tableau-Projects
